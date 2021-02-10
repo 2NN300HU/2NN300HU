@@ -6,7 +6,7 @@
 
 [![2NN300HU's github stats](https://github-readme-stats.vercel.app/api?username=2NN300HU&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2NN300HU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2NN300HU&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **2NN300HU/2NN300HU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
